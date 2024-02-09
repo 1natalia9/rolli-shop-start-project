@@ -35,7 +35,7 @@ function renderProducts(productsArray) {
                    </div>
                </div>
 
-               <button data-cart type="button" class="btn btn-block btn-outline-warning">+ в корзину</button>
+               <button data-cart type="button" class="btn btn-block btn-outline-warning">+ Add to cart</button>
 
            </div>
        </div>
